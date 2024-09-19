@@ -1,0 +1,79 @@
+[0.005s] Invoking command in '/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_teleop': AMENT_PREFIX_PATH=/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_moveit_config:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_bringup:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_moveit_config:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_bringup:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/an/Documents/turtlebot/turtlebot3_ws/src/turtlebot3_lime/turtlebot3_lime_teleop -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_teleop
+[0.041s] -- The C compiler identification is GNU 11.4.0
+[0.077s] -- The CXX compiler identification is GNU 11.4.0
+[0.082s] -- Detecting C compiler ABI info
+[0.126s] -- Detecting C compiler ABI info - done
+[0.130s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.131s] -- Detecting C compile features
+[0.131s] -- Detecting C compile features - done
+[0.133s] -- Detecting CXX compiler ABI info
+[0.183s] -- Detecting CXX compiler ABI info - done
+[0.187s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.188s] -- Detecting CXX compile features
+[0.188s] -- Detecting CXX compile features - done
+[0.190s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.408s] -- Found Python3: /home/an/miniconda3/bin/python3 (found version "3.11.4") found components: Interpreter 
+[0.451s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.469s] -- Found rclcpp: 16.0.9 (/opt/ros/humble/share/rclcpp/cmake)
+[0.501s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.504s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.510s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.519s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.533s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.581s] -- Found rmw_implementation_cmake: 6.1.2 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.583s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.640s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.659s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.692s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.700s] -- Looking for pthread.h
+[0.744s] -- Looking for pthread.h - found
+[0.744s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.788s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.788s] -- Found Threads: TRUE  
+[0.896s] -- Found turtlebot3_lime_bringup: 2.1.1 (/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_bringup/share/turtlebot3_lime_bringup/cmake)
+[0.896s] -- Found turtlebot3_lime_moveit_config: 2.1.1 (/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_moveit_config/share/turtlebot3_lime_moveit_config/cmake)
+[0.896s] -- Found turtlebot3_lime_description: 2.1.1 (/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/cmake)
+[0.897s] -- Found geometry_msgs: 4.2.4 (/opt/ros/humble/share/geometry_msgs/cmake)
+[0.928s] -- Found nav_msgs: 4.2.4 (/opt/ros/humble/share/nav_msgs/cmake)
+[0.986s] -- Found control_msgs: 4.6.0 (/opt/ros/humble/share/control_msgs/cmake)
+[1.278s] -- Found std_srvs: 4.2.4 (/opt/ros/humble/share/std_srvs/cmake)
+[1.292s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.368s] -- Added test 'copyright' to check source files copyright and LICENSE
+[1.368s] -- Added test 'cppcheck' to perform static code analysis on C / C++ code
+[1.368s] -- Configured cppcheck include dirs: $<BUILD_INTERFACE:/home/an/Documents/turtlebot/turtlebot3_ws/src/turtlebot3_lime/turtlebot3_lime_teleop/include>
+[1.368s] -- Configured cppcheck exclude dirs and/or files: 
+[1.369s] -- Added test 'cpplint' to check C / C++ code against the Google style
+[1.369s] -- Configured cpplint exclude dirs and/or files: 
+[1.369s] -- Added test 'lint_cmake' to check CMake code style
+[1.370s] -- Added test 'uncrustify' to check C / C++ code style
+[1.370s] -- Configured uncrustify additional arguments: 
+[1.370s] -- Added test 'xmllint' to check XML markup files
+[1.371s] -- Configuring done
+[1.379s] -- Generating done
+[1.380s] -- Build files have been written to: /home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_teleop
+[1.388s] Invoked command in '/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_teleop' returned '0': AMENT_PREFIX_PATH=/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_moveit_config:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_bringup:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_moveit_config:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_bringup:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/an/Documents/turtlebot/turtlebot3_ws/src/turtlebot3_lime/turtlebot3_lime_teleop -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_teleop
+[1.388s] Invoking command in '/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_teleop': AMENT_PREFIX_PATH=/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_moveit_config:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_bringup:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_moveit_config:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_bringup:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_teleop -- -j24 -l24
+[1.419s] [ 50%] [32mBuilding CXX object CMakeFiles/turtlebot3_lime_teleop.dir/src/turtlebot3_lime_teleop.cpp.o[0m
+[5.506s] [100%] [32m[1mLinking CXX executable turtlebot3_lime_teleop[0m
+[5.700s] [100%] Built target turtlebot3_lime_teleop
+[5.706s] Invoked command in '/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_teleop' returned '0': AMENT_PREFIX_PATH=/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_moveit_config:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_bringup:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_moveit_config:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_bringup:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_teleop -- -j24 -l24
+[5.720s] Invoking command in '/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_teleop': AMENT_PREFIX_PATH=/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_moveit_config:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_bringup:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_moveit_config:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_bringup:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_teleop
+[5.724s] -- Install configuration: ""
+[5.725s] -- Execute custom install script
+[5.725s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_teleop/lib/turtlebot3_lime_teleop/turtlebot3_lime_teleop
+[5.730s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_teleop/share/ament_index/resource_index/package_run_dependencies/turtlebot3_lime_teleop
+[5.735s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_teleop/share/ament_index/resource_index/parent_prefix_path/turtlebot3_lime_teleop
+[5.740s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_teleop/share/turtlebot3_lime_teleop/environment/ament_prefix_path.sh
+[5.745s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_teleop/share/turtlebot3_lime_teleop/environment/ament_prefix_path.dsv
+[5.749s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_teleop/share/turtlebot3_lime_teleop/environment/path.sh
+[5.754s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_teleop/share/turtlebot3_lime_teleop/environment/path.dsv
+[5.759s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_teleop/share/turtlebot3_lime_teleop/local_setup.bash
+[5.764s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_teleop/share/turtlebot3_lime_teleop/local_setup.sh
+[5.769s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_teleop/share/turtlebot3_lime_teleop/local_setup.zsh
+[5.774s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_teleop/share/turtlebot3_lime_teleop/local_setup.dsv
+[5.779s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_teleop/share/turtlebot3_lime_teleop/package.dsv
+[5.783s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_teleop/share/ament_index/resource_index/packages/turtlebot3_lime_teleop
+[5.788s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_teleop/share/turtlebot3_lime_teleop/cmake/turtlebot3_lime_teleopConfig.cmake
+[5.792s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_teleop/share/turtlebot3_lime_teleop/cmake/turtlebot3_lime_teleopConfig-version.cmake
+[5.796s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_teleop/share/turtlebot3_lime_teleop/package.xml
+[5.801s] Invoked command in '/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_teleop' returned '0': AMENT_PREFIX_PATH=/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_moveit_config:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_bringup:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_moveit_config:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_bringup:/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description:/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_teleop

@@ -1,0 +1,29 @@
+-- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_navigation2
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/turtlebot3_lime_navigation2/launch/navigation2.launch.py
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/turtlebot3_lime_navigation2/launch/navigation2_use_sim_time.launch.py
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/turtlebot3_lime_navigation2/map/turtlebot3_world.pgm
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/turtlebot3_lime_navigation2/map/turtlebot3_world.yaml
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/turtlebot3_lime_navigation2/param/turtlebot3.yaml
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/turtlebot3_lime_navigation2/param/turtlebot3_use_sim_time.yaml
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/turtlebot3_lime_navigation2/rviz/navigation2.rviz
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/ament_index/resource_index/package_run_dependencies/turtlebot3_lime_navigation2
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/ament_index/resource_index/parent_prefix_path/turtlebot3_lime_navigation2
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/turtlebot3_lime_navigation2/environment/ament_prefix_path.sh
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/turtlebot3_lime_navigation2/environment/ament_prefix_path.dsv
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/turtlebot3_lime_navigation2/environment/path.sh
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/turtlebot3_lime_navigation2/environment/path.dsv
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/turtlebot3_lime_navigation2/local_setup.bash
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/turtlebot3_lime_navigation2/local_setup.sh
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/turtlebot3_lime_navigation2/local_setup.zsh
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/turtlebot3_lime_navigation2/local_setup.dsv
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/turtlebot3_lime_navigation2/package.dsv
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/ament_index/resource_index/packages/turtlebot3_lime_navigation2
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/turtlebot3_lime_navigation2/cmake/turtlebot3_lime_navigation2Config.cmake
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/turtlebot3_lime_navigation2/cmake/turtlebot3_lime_navigation2Config-version.cmake
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_navigation2/share/turtlebot3_lime_navigation2/package.xml
