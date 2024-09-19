@@ -1,0 +1,15 @@
+/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime/share/ament_index/resource_index/package_run_dependencies/turtlebot3_lime
+/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime/share/ament_index/resource_index/parent_prefix_path/turtlebot3_lime
+/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime/share/turtlebot3_lime/environment/ament_prefix_path.sh
+/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime/share/turtlebot3_lime/environment/ament_prefix_path.dsv
+/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime/share/turtlebot3_lime/environment/path.sh
+/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime/share/turtlebot3_lime/environment/path.dsv
+/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime/share/turtlebot3_lime/local_setup.bash
+/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime/share/turtlebot3_lime/local_setup.sh
+/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime/share/turtlebot3_lime/local_setup.zsh
+/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime/share/turtlebot3_lime/local_setup.dsv
+/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime/share/turtlebot3_lime/package.dsv
+/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime/share/ament_index/resource_index/packages/turtlebot3_lime
+/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime/share/turtlebot3_lime/cmake/turtlebot3_limeConfig.cmake
+/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime/share/turtlebot3_lime/cmake/turtlebot3_limeConfig-version.cmake
+/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime/share/turtlebot3_lime/package.xml

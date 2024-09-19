@@ -1,0 +1,52 @@
+[0.010s] Invoking command in '/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_description': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/an/Documents/turtlebot/turtlebot3_ws/src/turtlebot3_lime/turtlebot3_lime_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description
+[0.017s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.102s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.174s] -- Configuring done
+[0.176s] -- Generating done
+[0.176s] -- Build files have been written to: /home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_description
+[0.182s] Invoked command in '/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake /home/an/Documents/turtlebot/turtlebot3_ws/src/turtlebot3_lime/turtlebot3_lime_description -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description
+[0.182s] Invoking command in '/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_description': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_description -- -j24 -l24
+[0.202s] Invoked command in '/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_description -- -j24 -l24
+[0.218s] Invoking command in '/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_description': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_description
+[0.221s] -- Install configuration: ""
+[0.221s] -- Execute custom install script
+[0.222s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/launch/model.launch.py
+[0.226s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/rviz/model.rviz
+[0.231s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/urdf/open_manipulator_sara.urdf.xacro
+[0.235s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/urdf/turtlebot3_bigwheel_orin.urdf.xacro
+[0.240s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/urdf/turtlebot3_lime.urdf.xacro
+[0.244s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/gazebo/materials.xacro
+[0.249s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/gazebo/open_manipulator_sara.gazebo.xacro
+[0.253s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/gazebo/turtlebot3_bigwheel_orin.gazebo.xacro
+[0.258s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/open_manipulator_sara/gripper_left_palm.stl
+[0.263s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/open_manipulator_sara/gripper_right_palm.stl
+[0.269s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/open_manipulator_sara/link1.stl
+[0.274s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/open_manipulator_sara/link2.stl
+[0.279s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/open_manipulator_sara/link3.stl
+[0.284s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/open_manipulator_sara/link4.stl
+[0.290s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/open_manipulator_sara/link5.stl
+[0.296s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/open_manipulator_sara/link6.stl
+[0.301s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/open_manipulator_sara/link7.stl
+[0.307s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/turtlebot3_bigwheel_orin/base.stl
+[0.312s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/turtlebot3_bigwheel_orin/ladar.stl
+[0.317s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/turtlebot3_bigwheel_orin/left_tire.stl
+[0.322s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/turtlebot3_bigwheel_orin/right_tire.stl
+[0.329s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/turtlebot3_bigwheel_orin/tire.stl
+[0.334s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/ros2_control/turtlebot3_lime_system.ros2_control.xacro
+[0.339s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/environment/turtlebot3_lime_description.dsv
+[0.344s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/ament_index/resource_index/package_run_dependencies/turtlebot3_lime_description
+[0.348s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/ament_index/resource_index/parent_prefix_path/turtlebot3_lime_description
+[0.353s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/environment/ament_prefix_path.sh
+[0.358s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/environment/ament_prefix_path.dsv
+[0.363s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/environment/path.sh
+[0.368s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/environment/path.dsv
+[0.373s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/local_setup.bash
+[0.378s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/local_setup.sh
+[0.383s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/local_setup.zsh
+[0.387s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/local_setup.dsv
+[0.391s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/package.dsv
+[0.396s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/ament_index/resource_index/packages/turtlebot3_lime_description
+[0.400s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/cmake/turtlebot3_lime_descriptionConfig.cmake
+[0.404s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/cmake/turtlebot3_lime_descriptionConfig-version.cmake
+[0.409s] -- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/package.xml
+[0.415s] Invoked command in '/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_description' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_description

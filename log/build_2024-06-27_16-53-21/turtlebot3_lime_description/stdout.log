@@ -1,0 +1,46 @@
+-- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_description
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/launch/model.launch.py
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/rviz/model.rviz
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/urdf/open_manipulator_sara.urdf.xacro
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/urdf/turtlebot3_bigwheel_orin.urdf.xacro
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/urdf/turtlebot3_lime.urdf.xacro
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/gazebo/materials.xacro
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/gazebo/open_manipulator_sara.gazebo.xacro
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/gazebo/turtlebot3_bigwheel_orin.gazebo.xacro
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/open_manipulator_sara/gripper_left_palm.stl
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/open_manipulator_sara/gripper_right_palm.stl
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/open_manipulator_sara/link1.stl
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/open_manipulator_sara/link2.stl
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/open_manipulator_sara/link3.stl
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/open_manipulator_sara/link4.stl
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/open_manipulator_sara/link5.stl
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/open_manipulator_sara/link6.stl
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/open_manipulator_sara/link7.stl
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/turtlebot3_bigwheel_orin/base.stl
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/turtlebot3_bigwheel_orin/ladar.stl
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/turtlebot3_bigwheel_orin/left_tire.stl
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/turtlebot3_bigwheel_orin/right_tire.stl
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/meshes/turtlebot3_bigwheel_orin/tire.stl
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/ros2_control/turtlebot3_lime_system.ros2_control.xacro
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/environment/turtlebot3_lime_description.dsv
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/ament_index/resource_index/package_run_dependencies/turtlebot3_lime_description
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/ament_index/resource_index/parent_prefix_path/turtlebot3_lime_description
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/environment/ament_prefix_path.sh
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/environment/ament_prefix_path.dsv
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/environment/path.sh
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/environment/path.dsv
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/local_setup.bash
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/local_setup.sh
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/local_setup.zsh
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/local_setup.dsv
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/package.dsv
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/ament_index/resource_index/packages/turtlebot3_lime_description
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/cmake/turtlebot3_lime_descriptionConfig.cmake
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/cmake/turtlebot3_lime_descriptionConfig-version.cmake
+-- Symlinking: /home/an/Documents/turtlebot/turtlebot3_ws/install/turtlebot3_lime_description/share/turtlebot3_lime_description/package.xml

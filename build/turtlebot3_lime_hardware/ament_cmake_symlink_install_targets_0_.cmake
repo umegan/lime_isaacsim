@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_hardware/libturtlebot3_lime_hardware.so" "TARGETS" "turtlebot3_lime_hardware" "LIBRARY_DESTINATION" "lib" "ARCHIVE_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")
