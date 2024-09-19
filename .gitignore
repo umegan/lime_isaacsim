@@ -1,7 +1,7 @@
 # file
-build/
-install/
-log/
+build
+install
+log
 
 # Prerequisites
 *.d
