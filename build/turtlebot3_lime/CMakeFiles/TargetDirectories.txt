@@ -1,9 +1,0 @@
-/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime/CMakeFiles/uninstall.dir
-/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime/CMakeFiles/turtlebot3_lime_uninstall.dir
-/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime/CMakeFiles/test.dir
-/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime/CMakeFiles/edit_cache.dir
-/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime/CMakeFiles/rebuild_cache.dir
-/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime/CMakeFiles/list_install_components.dir
-/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime/CMakeFiles/install.dir
-/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime/CMakeFiles/install/local.dir
-/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime/CMakeFiles/install/strip.dir

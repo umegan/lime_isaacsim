@@ -1,1 +1,0 @@
-ament_cmake_symlink_install_targets("TARGET_FILES" "/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_teleop/turtlebot3_lime_teleop" "TARGETS" "turtlebot3_lime_teleop" "DESTINATION" "lib/turtlebot3_lime_teleop")

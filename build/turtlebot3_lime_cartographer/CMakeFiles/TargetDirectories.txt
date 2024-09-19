@@ -1,9 +1,0 @@
-/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_cartographer/CMakeFiles/uninstall.dir
-/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_cartographer/CMakeFiles/turtlebot3_lime_cartographer_uninstall.dir
-/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_cartographer/CMakeFiles/test.dir
-/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_cartographer/CMakeFiles/edit_cache.dir
-/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_cartographer/CMakeFiles/rebuild_cache.dir
-/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_cartographer/CMakeFiles/list_install_components.dir
-/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_cartographer/CMakeFiles/install.dir
-/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_cartographer/CMakeFiles/install/local.dir
-/home/an/Documents/turtlebot/turtlebot3_ws/build/turtlebot3_lime_cartographer/CMakeFiles/install/strip.dir
